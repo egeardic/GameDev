@@ -1,5 +1,5 @@
 # GameDev
 
-Yapılacaklar
--1 şey
--2 şey
+yapilacaklar
+1 
+2
