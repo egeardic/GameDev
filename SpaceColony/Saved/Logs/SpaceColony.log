@@ -1051,3 +1051,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.25-14.50.26:377][264]AssetCheck: New page: Asset Save: multiple assets
 [2022.08.25-14.50.26:377][264]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.08.25-14.50.26:377][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.08.25-14.54.39:161][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.25-14.54.39:170][180]LogSavePackage: Moving '../../../../Unreal Projects/Github/GameDev/SpaceColony/Saved/Minimal_Default1C2AA21C4C163533AD6C28A0CA9DC4B5.tmp' to '../../../../Unreal Projects/Github/GameDev/SpaceColony/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.08.25-14.54.39:199][180]LogSavePackage: Moving '../../../../Unreal Projects/Github/GameDev/SpaceColony/Saved/Minimal_Default_BuiltDataD08AFAD64B46344C9D8A67AB0CBA2B6C.tmp' to '../../../../Unreal Projects/Github/GameDev/SpaceColony/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.08.25-14.54.39:211][180]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-14.54.39:211][180]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.08.25-14.54.39:211][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
