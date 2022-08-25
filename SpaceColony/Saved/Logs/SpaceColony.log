@@ -1044,3 +1044,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.25-14.46.23:970][647]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.08.25-14.46.23:970][647]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.08.25-14.46.26:860][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.08.25-14.50.21:445][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2022.08.25-14.50.26:326][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.25-14.50.26:336][264]LogSavePackage: Moving '../../../../Unreal Projects/Github/GameDev/SpaceColony/Saved/Minimal_DefaultA11748B145537C3E8D28BFBC7E3F8067.tmp' to '../../../../Unreal Projects/Github/GameDev/SpaceColony/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.08.25-14.50.26:366][264]LogSavePackage: Moving '../../../../Unreal Projects/Github/GameDev/SpaceColony/Saved/Minimal_Default_BuiltData33F2837B4FDCAD6E7A3BEEBC8938BFAB.tmp' to '../../../../Unreal Projects/Github/GameDev/SpaceColony/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.08.25-14.50.26:377][264]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-14.50.26:377][264]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.08.25-14.50.26:377][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
